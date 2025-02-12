@@ -1,20 +1,20 @@
-The population of the Earth is about 8 billion people, but there are over 10 quintillion (that's 10,000,000,000,000,000,000) ants!
-A group of owls is called a parliament.
-The world's oldest piece of chewing gum is 9,000 years old and made from birch bark tar.
-Cats have over 30 different muscles in each ear, allowing them to swivel them independently.
-The world's hottest chili pepper is so spicy, it's illegal to import to some countries.
-A bolt of lightning can heat the air around it to over 50,000 degrees Fahrenheit, hotter than the surface of the Sun!
-The population of the Earth weighs about the same as 150 billion blue whales.
-The world's quietest room is located at Microsoft's headquarters in Washington and is so quiet you can hear your own heartbeat.
-Dolphins can call each other by name using unique whistles.
-Butterflies taste with their feet!
-The population of the Earth speaks over 6,000 different languages.
-The world's largest living organism is a fungus that covers over 2,385 acres of forest in Oregon.
-It takes about 7 years for a single tea leaf to grow!
-Your nose can detect over 1 trillion different scents.
-The human brain uses about 20% of the body's total energy.
-The population of the Earth blinks about 1.2 billion times every minute.
-A group of flamingos is called a flamboyance.
-The Earth is the only planet in our solar system known to support life.
-The population of the Earth drinks about 1.5 billion cups of coffee every day.
-The population of the Earth laughs an average of 15 times a day.
+Linera is the first blockchain infrastructure optimized for real-time applications. 
+Linera’s unique architecture lets users interact directly with small chains of blocks, called microchains,
+allowing applications to read and write onchain data with the lowest latency and highest security possible.
+Now, Linera advances beyond today’s L2s by decentralizing even further.
+Linera's approach, based on microchains, allows users to own their own personal chain.
+providing greater control over performance and security.
+Whether proving the origin of your art or switching social platforms, 
+Linera is building a truly user-owned future at the vanguard.
+We see a future where Web3 is not only mainstream but is powered by infrastructure that is as agile and scalable as the Internet itself.”
+Mathieu founded Linera with the vision to enable real-time decentralized interactions to scale seamlessly with user demand.
+In 2021, he founded Linera to do just this. He holds a PhD in cryptographic protocols and has extensive experience building distributed systems. 
+At Meta, Mathieu contributed to the Libra/Novi project as an early research engineer.
+At that time he also worked on the FastPay protocol,
+an academic initiative laying the groundwork for Linera’s architecture.
+His research, including the Zef protocol, continues to drive performance innovations at Linera.
+LFG LINERA !!!!!
+Q1 2024 - Launched our devnet, enabling developers to begin experimenting with Linera’s microchains architecture.
+Q4 2024 - Next, we’re preparing for the launch of our testnet in late 2024, 
+Linera’s Founder, Mathieu Baudet, gave an invited talk about the Linera protocol at the Science of Blockchain Conference 2022 
+he talk explained how to generalize the architecture and the communication model of an academic protocol called FastPay, 
